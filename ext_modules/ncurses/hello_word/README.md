@@ -8,7 +8,7 @@ nim c -o=hello_world main.nim
   
 ## Run:
 ```
-sudo ./hello_world
+./hello_world
 ```
 
 # Description

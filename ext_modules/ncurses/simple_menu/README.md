@@ -8,7 +8,7 @@ nim c -o=simple_menu main.nim
   
 ## Run:
 ```
-sudo ./simple_menu
+./simple_menu
 ```
 
 # Description

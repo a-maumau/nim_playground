@@ -8,7 +8,7 @@ nim c -o=pad_test main.nim
   
 ## Run:
 ```
-sudo ./pad_test
+./pad_test
 ```
 
 # Description
